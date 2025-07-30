@@ -88,6 +88,5 @@ public class Principal {
         }
 
         System.out.println("\nTodos os veiculos filtrados com avaliações por ano: "); veiculos.forEach(System.out::println);
-
     }
 }
